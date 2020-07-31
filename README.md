@@ -18,5 +18,5 @@ However, there are a set of agents who do not bring in the expected resultant bu
 help them provide insights using their past recruitment data. They want to predict the target variable for each potential agent which would help them identify
 the right agents to hire.
 
-# Key Points: The evaluation metric to be used is ROC-AUC.
+# Key Points: The evaluation metric used is ROC-AUC.
 
